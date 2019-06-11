@@ -22,12 +22,13 @@ Part 4 – Google Analytics Dashboard
 
 Part 5 – A/B Testing
 A-version
-![image010](https://user-images.githubusercontent.com/43455241/59280653-ec77b680-8c33-11e9-909e-63997f41cfa7.png)
+![image006](https://user-images.githubusercontent.com/43455241/59280655-ec77b680-8c33-11e9-9c95-aa92f52fbd1a.png)
  
 B- Version
-![image006](https://user-images.githubusercontent.com/43455241/59280655-ec77b680-8c33-11e9-9c95-aa92f52fbd1a.png)
+ ![image008](https://user-images.githubusercontent.com/43455241/59280659-ed104d00-8c33-11e9-8953-b68df30a7f48.png)
  
 Difference between A and B version: The background color of the menu changes from white in A version to light green in B version
 
 A/B Test Results: 
- ![image008](https://user-images.githubusercontent.com/43455241/59280659-ed104d00-8c33-11e9-8953-b68df30a7f48.png)
+
+ ![image010](https://user-images.githubusercontent.com/43455241/59280653-ec77b680-8c33-11e9-909e-63997f41cfa7.png)
